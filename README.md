@@ -10,7 +10,7 @@ To install jsonc, use [npm](http://github.com/isaacs/npm):
 ## Usage
 
 ```coffee-script
-jsonc = require '../lib/main.coffee'
+jsonc = require 'jsonc'
 
 list = []
 list.push {my: 'choni', your: 'chachi', his: 'chocha', her: 'choochi'}
